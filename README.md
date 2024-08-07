@@ -67,7 +67,7 @@ se importa game
 linea 3
 Función principal que inicia el juego.
 se declara una variable que viene siendo el llamado del objeto game 
-se declara otra variable donde da inicio al juego y en la funcion principal se llama al mae para que corra sin ningun problema
+y se inicia EL JUEGO
     
 
         
